@@ -3,8 +3,8 @@ Swipe
 
 Uploading and fetching data using Retrofit in android studio with JAVA. 
 
-<img src="[Assets/icon.png](https://github.com/whitehat5618/Swipe/blob/641c352086abdadb80ef6b66183fdb7a7cc00af2/Screenshot_2022-08-09-15-29-05-434_com.domonz.swipe.jpg)" width="200" height="450"/>
-<img src="[Assets/icon.png](https://github.com/whitehat5618/Swipe/blob/641c352086abdadb80ef6b66183fdb7a7cc00af2/Screenshot_2022-08-09-15-29-22-549_com.domonz.swipe.jpg)" width="200" height="450"/>
+<img src="https://github.com/whitehat5618/Swipe/blob/641c352086abdadb80ef6b66183fdb7a7cc00af2/Screenshot_2022-08-09-15-29-05-434_com.domonz.swipe.jpg" width="200" height="450"/>
+<img src="https://github.com/whitehat5618/Swipe/blob/641c352086abdadb80ef6b66183fdb7a7cc00af2/Screenshot_2022-08-09-15-29-22-549_com.domonz.swipe.jpg" width="200" height="450"/>
 
 
 
